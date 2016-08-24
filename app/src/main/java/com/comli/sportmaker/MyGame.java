@@ -55,7 +55,7 @@ public class MyGame extends Fragment{
             ft.replace(R.id.fragment_container, userArea);
             ft.commit();
         }
-        //ciao
+        //ciao sono simone
         return rootView;
     }
 
