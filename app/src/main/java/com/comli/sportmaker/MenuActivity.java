@@ -165,7 +165,6 @@ public class MenuActivity extends AppCompatActivity
                 break;
 
             case R.id.nav_manage:
-                //fragment = new EventList();
                 fragment = new TabEventList();
                 viewIsAtHome = false;
                 break;
