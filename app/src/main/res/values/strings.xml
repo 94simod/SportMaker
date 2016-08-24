@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sport Maker</string>
+    <string name="user_area">User Area</string>
+    <string name="register_activity">Sign up</string>
+    <string name="event_list">Event List</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Logout</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
